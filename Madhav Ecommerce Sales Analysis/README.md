@@ -40,6 +40,12 @@ EDA involved exploring the sales data to answer key questions, such as:
 For my data analysis , I have used several advanced Excel operations such as pivot tables, bar charts etc. and in Power BI, I used several DAX functions and data models to create the dashboards. 
 
 
+### Dashboard
+
+![image](https://github.com/AnganTheEagle/Portfolio-Projects/assets/158545853/ca482902-7e31-4da7-9aa4-fc1c781b81d0)
+
+
+
 ### Results/Findings 
 
 The analysis results are summarized as follows:
